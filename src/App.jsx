@@ -450,6 +450,17 @@ const projectsData = [
     ]
   },
   {
+    title: "2nd SKA India Summer Training School",
+    subtitle: "SKA India Consortium | IIT Kanpur",
+    description: "Selected for and Participated in SKAITS-2 : a two-week program focused on radio astronomy, astronomical instrumentation, scientific computing, and data analysis for the Square Kilometre Array (SKA) Observatory through expert lectures and hands-on training.",
+    links: [
+      { label: "Project Presentation", url: "https://drive.google.com/file/d/1CPCdgZyzs61RhcRCX5BRZZRQ_IwI_O0P/view?usp=sharing" },
+      { label: "Certificate of Completion", url: "https://drive.google.com/file/d/15kiSZPt2JcVpaLct-RjblH1pok3hCkXy/view?usp=sharing" },
+      { label: "Best Presentation Award", url: "https://drive.google.com/file/d/1HOteRIWbUoHFZcrKPve0GZ0ZVn_iza04/view?usp=sharing" },
+      { label: "Group Photo", url: "https://drive.google.com/file/d/1t92FmQHfqIwp33J9XsWwrpveF1u-rHCP/view?usp=sharing"}
+    ]
+  },
+  {
     title: "Bright Hα Emitters in Euclid Q1",
     subtitle: "Instituto de Astrofisica e Ciencias do Espaco",
     description: "IA Summer Program (Online) conducted by Instituto de Astrofisica e Ciencias do Espaco, Lisbon. Supervised by Dr. Ana S. Paulino Afonso.",
